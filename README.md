@@ -1,6 +1,6 @@
 # Peckr
 
-![Peckr](https://raw.githubusercontent.com/jhelbig/peckr/master/peckr_logo.png)
+![Peckr](https://raw.githubusercontent.com/jhelbig/peckr/master/profile.png)
 
 Peckr was created as a tool for front-end development.  While developing my own projects, I noticed the need to grab colors from places off the web that inspired me, but Peckr needed to be more than just a color reader.  I needed a way to directly copy a color code for immediate use.  The first version of Peckr was extremely basic, but suited my needs well.  Over time I decided to also add rgb color copy as well.  It currently is part of my daily development toolkit.
 
